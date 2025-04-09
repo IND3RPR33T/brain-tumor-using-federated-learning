@@ -1,0 +1,34 @@
+Brain Tumor Classification - Client 2 Training Log
+Date: 2025-04-08 18:37:16
+Number of training samples: 1874
+
+Round,Epoch,Loss,Accuracy,Timestamp
+
+Evaluation - Round 0: loss=1.574847, accuracy=0.228922, timestamp=2025-04-08 18:45:20
+2,1,0.959087,0.645678,2025-04-08 18:53:57
+
+Evaluation - Round 0: loss=2.218841, accuracy=0.265742, timestamp=2025-04-08 18:56:31
+3,1,0.775070,0.710779,2025-04-08 19:05:05
+
+Evaluation - Round 0: loss=2.377027, accuracy=0.265742, timestamp=2025-04-08 19:07:42
+4,1,0.634750,0.761473,2025-04-08 19:16:17
+
+Evaluation - Round 0: loss=3.246674, accuracy=0.345251, timestamp=2025-04-08 19:18:49
+5,1,0.606708,0.756670,2025-04-08 19:27:24
+
+Evaluation - Round 0: loss=2.274933, accuracy=0.432764, timestamp=2025-04-08 19:29:57
+6,1,0.600450,0.760406,2025-04-08 19:38:32
+
+Evaluation - Round 0: loss=1.623518, accuracy=0.338314, timestamp=2025-04-08 19:41:05
+7,1,0.481599,0.811633,2025-04-08 19:49:41
+
+Evaluation - Round 0: loss=1.788427, accuracy=0.406083, timestamp=2025-04-08 19:52:41
+8,1,0.460448,0.821238,2025-04-08 20:01:08
+
+Evaluation - Round 0: loss=0.978189, accuracy=0.603522, timestamp=2025-04-08 20:03:41
+9,1,0.384623,0.843650,2025-04-08 20:12:17
+
+Evaluation - Round 0: loss=0.716727, accuracy=0.733191, timestamp=2025-04-08 20:14:53
+10,1,0.401050,0.842583,2025-04-08 20:23:24
+
+Evaluation - Round 0: loss=1.280668, accuracy=0.534685, timestamp=2025-04-08 20:25:58
